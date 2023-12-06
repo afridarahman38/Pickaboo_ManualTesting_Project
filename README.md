@@ -1,7 +1,7 @@
 # Pickaboo.com Manual Testing Project
 
 ## Overview
-This project is a comprehensive manual testing effort for the Pickaboo.com website. The purpose of this project is to ensure the quality and functionality of the website through various testing activities, including version history tracking, test planning, mind mapping, test scenario creation, test case design, test summary reporting, bug reporting, and collection of recommendations from testing experts.
+This project is a comprehensive manual testing effort for the [Pickaboo.com](https://www.pickaboo.com/) website. The purpose of this project is to ensure the quality and functionality of the website through various testing activities, including version history tracking, test planning, mind mapping, test scenario creation, test case design, test summary reporting, bug reporting, and collection of recommendations from testing experts.
 
 ## Version History
 Version 1.0.0 (Baseline): Initial release of the Pickaboo.com website for testing.
