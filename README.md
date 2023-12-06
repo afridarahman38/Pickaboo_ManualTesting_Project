@@ -30,3 +30,7 @@ Test metrics, including test execution progress, defect density, and test covera
 
 ## Recommendations
 Expertise recommendations were collected and documented in the Expert_Recommendations.md file. These recommendations provide insights into areas for improvement and optimization of testing processes.
+
+## Acknowledgments
+Special thanks to the my advisor for review this manual testing documentation. 
+Feel free to contribute, open issues, or provide feedback to make this project even better!
